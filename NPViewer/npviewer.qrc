@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="NPViewer">
+      <file>Resources/icon_main.png</file>
+      <file>Resources/icon_new.png</file>
+      <file>Resources/icon_load_vertex.png</file>
+      <file>Resources/icon_load_triangulation.png</file>
+      <file>Resources/icon_reload.png</file>
+      <file>Resources/icon_random.png</file>
+    </qresource>
+</RCC>
